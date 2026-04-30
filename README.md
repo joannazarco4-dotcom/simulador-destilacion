@@ -19,4 +19,4 @@ $$ m_q = \frac{q}{q - 1} $$
 * **Lógica y Gráficos:** JavaScript puro (Vanilla JS) y HTML5 Canvas API para el renderizado del diagrama de McCabe-Thiele.
 
 ## Uso
-Para ejecutar el simulador, simplemente abre el archivo `index.html` en cualquier navegador web moderno, o visita la página desplegada a través de GitHub Pages.
+Para ejecutar el simulador, simplemente abre el enlace 'https://joannazarco4-dotcom.github.io/simulador-destilacion/' en cualquier navegador web moderno, o visita la página desplegada a través de GitHub Pages.
